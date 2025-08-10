@@ -1,0 +1,51 @@
+Supplier,ItemName,Quantity,TotalCost
+CloudSoft Corp.,Annual Software License,4,23744.71
+CloudSoft Corp.,Desk Chair,109,13988.24
+CloudSoft Corp.,Laptop,136,119547.28
+CloudSoft Corp.,Laptop Bag,87,2529.2799999999997
+CloudSoft Corp.,Monitor,69,18563.56
+CloudSoft Corp.,Notepad,87,149.72
+CloudSoft Corp.,Printer,49,10545.31
+CloudSoft Corp.,Printer Ink,65,978.6
+CloudSoft Corp.,Stapler,143,1482.92
+CloudSoft Corp.,Whiteboard,57,8544.02
+FurniWorks Ltd.,Annual Software License,8,59047.55
+FurniWorks Ltd.,Desk Chair,99,15559.41
+FurniWorks Ltd.,Laptop,51,46021.82
+FurniWorks Ltd.,Laptop Bag,153,5243.16
+FurniWorks Ltd.,Monitor,115,33203.59
+FurniWorks Ltd.,Notepad,67,170.81
+FurniWorks Ltd.,Printer,106,21529.22
+FurniWorks Ltd.,Printer Ink,119,1502.07
+FurniWorks Ltd.,Stapler,145,1436.79
+FurniWorks Ltd.,Whiteboard,137,19096.3
+OfficeSupplies Co.,Annual Software License,12,89044.09
+OfficeSupplies Co.,Desk Chair,152,21316.91
+OfficeSupplies Co.,Laptop,64,56582.54
+OfficeSupplies Co.,Laptop Bag,151,4588.93
+OfficeSupplies Co.,Monitor,24,8566.05
+OfficeSupplies Co.,Notepad,110,208.99
+OfficeSupplies Co.,Printer,121,26357.98
+OfficeSupplies Co.,Printer Ink,88,1385.45
+OfficeSupplies Co.,Stapler,116,1179.47
+OfficeSupplies Co.,Whiteboard,93,14350.44
+QuickDeliver Ltd.,Annual Software License,8,68884.11
+QuickDeliver Ltd.,Desk Chair,130,21382.57
+QuickDeliver Ltd.,Laptop,117,105083.33
+QuickDeliver Ltd.,Laptop Bag,82,2355.62
+QuickDeliver Ltd.,Monitor,123,34019.86
+QuickDeliver Ltd.,Notepad,113,202.45999999999998
+QuickDeliver Ltd.,Printer,94,21764.190000000002
+QuickDeliver Ltd.,Printer Ink,60,996.1999999999999
+QuickDeliver Ltd.,Stapler,138,1465.01
+QuickDeliver Ltd.,Whiteboard,195,29200.24
+TechMart Inc.,Annual Software License,14,95297.54
+TechMart Inc.,Desk Chair,133,19610.69
+TechMart Inc.,Laptop,164,145049.84
+TechMart Inc.,Laptop Bag,179,6140.25
+TechMart Inc.,Monitor,128,35719.53
+TechMart Inc.,Notepad,136,267.31
+TechMart Inc.,Printer,70,15251.130000000001
+TechMart Inc.,Printer Ink,58,891.5699999999999
+TechMart Inc.,Stapler,80,764.08
+TechMart Inc.,Whiteboard,61,9769.79
